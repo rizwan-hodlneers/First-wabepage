@@ -1,0 +1,29 @@
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.parent{
+    background: url(https://media.istockphoto.com/vectors/group-of-business-people-with-thumbs-up-social-media-good-opinion-vector-id1263037285?k=20&m=1263037285&s=612x612&w=0&h=3WmVpSK8ns8XjMOghWL5Y6K0VgJ3agxeOPH8x_IdezE=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 400px;
+    padding-top: 100px;
+}
+.head{
+    padding-left: 110px;
+}
+.heading{
+    background: transparent; 
+    border: none;
+    border-bottom: 1px  solid black;
+    padding: 0px 400px 8px 0px;
+    margin: 8px;
+}
+#head{
+    background-color: black;
+    color: #FFFFFF;
+    margin-left: 30px;
+}
